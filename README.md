@@ -11,9 +11,9 @@
 ## Server-Side Install Instructions
 1. In your terminal `cd padsplitBackend`
 2. Run `bundle install`
-3. Run `rake db:create`
-4. Run `rake db:migrate`
-5. Run `rake db:seed`
+3. Run `rails db:create`
+4. Run `rails db:migrate`
+5. Run `rails db:seed`
 6. Run `rails s -p 3000`
 
 ## Client-Side Install Instructions
